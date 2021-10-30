@@ -1,6 +1,6 @@
 # timer_lab
 
-A new Flutter project.
+Timer with cubit state manager
 
 ## Getting Started
 
