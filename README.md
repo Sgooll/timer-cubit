@@ -1,4 +1,4 @@
-# timer_lab
+# TimerCubit
 
 Timer with cubit state manager
 
